@@ -1,38 +1,38 @@
 [
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "New Jarsey",
         "autore" : "Bon Jovi",
         "anno" : "1988"
     },
 
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "Live at Wembley 86",
         "autore" : "Queen",
         "anno" : "1992"
     },
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "Ten's Summoner's Tales",
         "autore" : "Sling",
         "anno" : "1993"
     },
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "Steve Gadd",
         "autore" : "Steve Gadd",
         "anno" : "2018"
     },
 
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "Brave new World",
         "autore" : "Iron Maiden",
         "anno" : "2000"
     },
     {
-        "foto" : "",
+        "foto" : "https://picsum.photos/200",
         "titolo" : "One more car",
         "autore" : "Eric",
         "anno" : "2002"
