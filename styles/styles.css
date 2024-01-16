@@ -25,15 +25,17 @@ main{
 
 .contenitore-album{
     
-    width: calc((100% / 3) - 20px);
-    margin-left: 10px;
-    margin-right: 10px;
+   width: 100%;
+   
+
 }
 
 .card{
     background-color: rgb(2, 2, 46);
     color: white;
-    width: 100%;
+    width: calc((100% / 3) - 20px);
+    margin-left: 10px;
+    margin-right: 10px;
     
  
     
