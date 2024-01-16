@@ -1,0 +1,43 @@
+[
+    {
+        "foto" : "",
+        "titolo" : "New Jarsey",
+        "autore" : "Bon Jovi",
+        "anno" : "1988"
+    },
+
+    {
+        "foto" : "",
+        "titolo" : "Live at Wembley 86",
+        "autore" : "Queen",
+        "anno" : "1992"
+    },
+    {
+        "foto" : "",
+        "titolo" : "Ten's Summoner's Tales",
+        "autore" : "Sling",
+        "anno" : "1993"
+    },
+    {
+        "foto" : "",
+        "titolo" : "Steve Gadd",
+        "autore" : "Steve Gadd",
+        "anno" : "2018"
+    },
+
+    {
+        "foto" : "",
+        "titolo" : "Brave new World",
+        "autore" : "Iron Maiden",
+        "anno" : "2000"
+    },
+    {
+        "foto" : "",
+        "titolo" : "One more car",
+        "autore" : "Eric",
+        "anno" : "2002"
+    }
+    
+
+    
+]
