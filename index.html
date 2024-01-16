@@ -19,22 +19,29 @@
 <body>
 
     <div id="app">
+        <header>
+            <img class="spoty" src="https://i.pinimg.com/736x/e1/92/4e/e1924e2d71900848f3a411a83b027415.jpg" alt="logo spotify">
+        </header>
 
-        <div class="container">
-            <div class="row">
-                <div class="contenitore-album">
-                    <div class="card" style="width: 18rem;" v-for="(disco, index) in discoList">
-                        <img :src= disco.foto class="card-img-top" alt="foto canzone">
-                        <div class="card-body">
-                          <h5 class="card-title"> {{ disco.titolo }}</h5>
-                          <p class="card-text"> {{ disco.autore }} </p>
-                          <p class="card-text"> {{ disco.anno }} </p>
-                          
+        <main>
+            <div class="container">
+                <div class="row">
+                    <div>
+                        <div class="card mb-3 mt-3" style="width: 18rem;" v-for="(disco, index) in discoList">
+                            <img :src= disco.foto class="card-img-top" alt="foto canzone">
+                            <div class="card-body">
+                              <h5 class="card-title"> {{ disco.titolo }}</h5>
+                              <p class="card-text"> {{ disco.autore }} </p>
+                              <p class="card-text"> {{ disco.anno }} </p>
+                              
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </main>
+
+       
     </div>
 
     <script src="./js/script.js"></script>
