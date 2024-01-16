@@ -27,3 +27,9 @@ main{
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.card{
+    background-color: rgb(2, 2, 46);
+    color: white;
+    
+}
