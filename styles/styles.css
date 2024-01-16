@@ -11,14 +11,20 @@ header{
 
 main{
     background-color: rgb(64, 71, 110);
-    height: calc(100vh - 40px);
+    height: calc(100vh - 100px);
+    
+}
+
+footer{
+    height: 60px;
+    background-color: rgb(2, 2, 46);
 }
 
 .spoty{
     margin-top: 5px;
     width: 40px;
     height: 30px;
-    margin-left: 40px;
+    margin-left: 60px;
     
 }
 
@@ -26,6 +32,11 @@ main{
 .contenitore-album{
     
    width: 100%;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   
+   
    
 
 }
@@ -33,11 +44,17 @@ main{
 .card{
     background-color: rgb(2, 2, 46);
     color: white;
-    width: calc((100% / 3) - 20px);
-    margin-left: 10px;
-    margin-right: 10px;
+   
     
- 
-    
-    
+}
+.titolo{
+    font-size: 17px;
+}
+
+.autore{
+    font-size: 10px;
+}
+.anno{
+    font-size: 15px;
+    margin-bottom: 10px;
 }
