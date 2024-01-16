@@ -11,6 +11,7 @@ header{
 
 main{
     background-color: rgb(64, 71, 110);
+    height: calc(100vh - 40px);
 }
 
 .spoty{
@@ -23,6 +24,7 @@ main{
 
 
 .contenitore-album{
+    
     width: calc((100% / 3) - 20px);
     margin-left: 10px;
     margin-right: 10px;
@@ -31,5 +33,9 @@ main{
 .card{
     background-color: rgb(2, 2, 46);
     color: white;
+    width: 100%;
+    
+ 
+    
     
 }
